@@ -1,0 +1,18 @@
+# Core dependencies
+layoutparser
+pdf2image
+PyPDF2
+numpy
+pillow==9.5.0
+matplotlib
+opencv-python
+pycryptodome
+
+# Torch and Detectron2 (CPU-only)
+torch
+# If you need torchvision/torchaudio for detectron2, include:
+torchvision
+torchaudio
+# Detectron2 (CPU-only, install from GitHub)
+# Note: This must be installed with pip as follows:
+# pip install 'git+https://github.com/facebookresearch/detectron2.git@v0.6' 
