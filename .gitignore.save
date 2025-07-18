@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+output/
+test_files/output_layouts/
+*.pyc
+*.pyo
+*.png
+*.jpg
+*.jpeg
+.DS_Stor
